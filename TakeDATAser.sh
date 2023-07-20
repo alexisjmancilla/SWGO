@@ -1,4 +1,7 @@
 #!/bin/bash
+# 20 Jul 2023 - Alexis Mancilla - ITEDA
+# Script para adquirir los datos de 1 linea del puerto Serie
+# Revisado para SWGO 2023 
 
 serial_port="/dev/ttyACM0"  # Puerto
 baud_rate="9600"  # Velocidad
